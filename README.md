@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jamile Reis</h1>
-<h3 align="center">As a 4th year Software Engineering student, I have solid Java skills, with 2 years of hands-on experience in the language, including the Spring Boot framework. I am recognized for my observation skills and my incessant curiosity, always seeking to learn and grow. I am passionate about problem-solving and value peer interaction, believing that together we can achieve more and support each other on the path to success.</h3>
+<h3 align="justify">As a 4th year Software Engineering student, I have solid Java skills, with 2 years of hands-on experience in the language, including the Spring Boot framework. I am recognized for my observation skills and my incessant curiosity, always seeking to learn and grow. I am passionate about problem-solving and value peer interaction, believing that together we can achieve more and support each other on the path to success.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jamilereis&label=Profile%20views&color=0e75b6&style=flat" alt="jamilereis" /> </p>
 
