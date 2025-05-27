@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jamilereis" alt="jamilereis" /></a> </p>
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/jamile-matos-dos-reis/](https://www.linkedin.com/in/jamile-matos-dos-reis/)
+ [https://www.linkedin.com/in/jamile-matos-dos-reis/](https://www.linkedin.com/in/jamile-matos-dos-reis/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
