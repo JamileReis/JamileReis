@@ -4,8 +4,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jamilereis" alt="jamilereis" /></a> </p>
 
 
-<h3 align="left">Connect with me:</h3>
-[https://www.linkedin.com/in/jamile-matos-dos-reis/](https://www.linkedin.com/in/jamile-matos-dos-reis/)
+
 <p align="left">
 </p>
 
